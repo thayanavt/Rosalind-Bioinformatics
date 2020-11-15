@@ -11,4 +11,4 @@ while i<=(n-3):
     geracoes.append(nova_geracao)
     i = i + 1
 
-print(geracoes)
+print(geracoes[-1])
